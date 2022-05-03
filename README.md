@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Seidmengistu
-- 👀 I’m interested in php with laravel framework.
+- 👋 Hi, I’m Seid Mengistu
+- 👀 I’m interested in php with laravel framework,Mobile App developer(Flutter,Dart),Video Editor,Graphic Design(Canva).
 - 🌱 I’m currently learning computer science and engineering(CSE) in Adama Science and Technology University(ASTU)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me  on telegram username:@Seid_Mengistu phone number:0968983297 email:seidmengistu88@gmail.com

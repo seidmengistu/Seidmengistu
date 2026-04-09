@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Seid Mengistu 👋</h1>
-<h3 align="center">AI Training Contributor • Full-Stack Developer • MSc Student in Artificial Intelligence</h3>
+<h3 align="center"> Full-Stack Developer • MSc Student in Artificial Intelligence.AI Training Contributor</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/seid-mengistu">

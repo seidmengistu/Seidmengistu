@@ -17,7 +17,9 @@
 
 ## 🚀 About Me
 
-I am a detail-oriented developer and problem solver with experience in **AI training, model evaluation, STEM reasoning tasks, and full-stack web development**.
+I am a detail-oriented developer and problem solver with experience in **full-stack web development, AI training, model evaluation, STEM reasoning tasks**.
+
+I  have hands-on experience building web applications using **PHP/Laravel, MERN stack, HTML, CSS, Bootstrap, Tailwind CSS, and SQL**.
 
 I have worked on **50+ AI-related projects** involving:
 - Mathematics
@@ -26,26 +28,24 @@ I have worked on **50+ AI-related projects** involving:
 - Prompt writing
 - Evaluation of AI model responses
 
-I also have hands-on experience building web applications using **PHP/Laravel, MERN stack, HTML, CSS, Bootstrap, Tailwind CSS, and SQL**.
 
 I enjoy working at the intersection of **AI systems, problem solving, software engineering, and intelligent applications**.
 
 ---
 
 ## 🧠 What I Do
-
+### 🌐 Full-Stack Development
+- Build web applications with **Laravel, React, Node.js, Express.js, MongoDB, Python**
+- Develop frontend and backend functionality using modern web technologies
+- Integrate tools such as **Stripe payments**
+- Build systems for **workflow automation, staff management, and inventory control**
+  
 ### 🤖 AI Training & Model Evaluation
 - Create and review **STEM, mathematics, logic, reasoning, and coding tasks**
 - Design prompts to **evaluate, stress-test, and improve model behavior**
 - Support **data preprocessing, debugging, prompt writing, and quality improvement**
 - Work with multi-language code and reasoning tasks in **Python, C++, Java, SQL, and more**
 - Help improve **accuracy, instruction following, robustness, and efficiency**
-
-### 🌐 Full-Stack Development
-- Build web applications with **Laravel, React, Node.js, Express.js, MongoDB, Python**
-- Develop frontend and backend functionality using modern web technologies
-- Integrate tools such as **Stripe payments**
-- Build systems for **workflow automation, staff management, and inventory control**
 
 ### 📘 AI / NLP Interest Areas
 - Prompt Engineering
@@ -69,7 +69,7 @@ I enjoy working at the intersection of **AI systems, problem solving, software e
 
 ## 🏆 Highlights
 
-- AI Training Contributor with experience across **20+ Outlier projects**
+- AI Training Contributor with experience across **50+ projects**
 - Strong background in **mathematical reasoning**, including calculus, algebra, and logic task creation
 - Experience in **model evaluation, prompt writing, debugging, and quality review**
 - Worked on **NLP / sarcasm detection** using **BERT-BiLSTM**
@@ -128,8 +128,6 @@ A practical system for managing employee-related workflows and administrative pr
 
 ### Laptop Control System
 A system designed to manage laptop distribution and tracking efficiently.
-
-> Add your GitHub repo links here once you choose the repositories you want to highlight.
 
 ---
 

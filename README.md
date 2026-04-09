@@ -19,7 +19,7 @@
 
 I am a detail-oriented developer and problem solver with experience in **AI training, model evaluation, STEM reasoning tasks, and full-stack web development**.
 
-I have worked on **20+ AI-related projects** involving:
+I have worked on **50+ AI-related projects** involving:
 - Mathematics
 - Reasoning
 - Coding
@@ -42,7 +42,7 @@ I enjoy working at the intersection of **AI systems, problem solving, software e
 - Help improve **accuracy, instruction following, robustness, and efficiency**
 
 ### 🌐 Full-Stack Development
-- Build web applications with **Laravel, React, Node.js, Express.js, MongoDB**
+- Build web applications with **Laravel, React, Node.js, Express.js, MongoDB, Python**
 - Develop frontend and backend functionality using modern web technologies
 - Integrate tools such as **Stripe payments**
 - Build systems for **workflow automation, staff management, and inventory control**

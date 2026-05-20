@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Seid Mengistu 👋</h1>
-<h3 align="center"> Full-Stack Developer • MSc Student in Artificial Intelligence.AI Training Contributor</h3>
+<h3 align="center"> Full-Stack Developer|Mobile App Developer • MSc Student in Artificial Intelligence.AI Training Contributor</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/seid-mengistu">
@@ -17,11 +17,11 @@
 
 ## 🚀 About Me
 
-I am a detail-oriented developer and problem solver with experience in **full-stack web development, AI training, model evaluation, STEM reasoning tasks**.
+I am a detail-oriented developer and problem solver with experience in **full-stack web development, mobile app development, AI training, model evaluation, STEM reasoning tasks**.
 
 I  have hands-on experience building web applications using **PHP/Laravel, MERN stack, HTML, CSS, Bootstrap, Tailwind CSS, and SQL**.
 
-I have worked on **50+ AI-related projects** involving:
+I have worked on **70+ AI-related projects** involving:
 - Mathematics
 - Reasoning
 - Coding
@@ -39,7 +39,8 @@ I enjoy working at the intersection of **AI systems, problem solving, software e
 - Develop frontend and backend functionality using modern web technologies
 - Integrate tools such as **Stripe payments**
 - Build systems for **workflow automation, staff management, and inventory control**
-  
+- Graduation project(Bsc) mobile app for salon and spa recommendations
+    
 ### 🤖 AI Training & Model Evaluation
 - Create and review **STEM, mathematics, logic, reasoning, and coding tasks**
 - Design prompts to **evaluate, stress-test, and improve model behavior**
@@ -82,10 +83,10 @@ I enjoy working at the intersection of **AI systems, problem solving, software e
 ![Tech Stack](https://skillicons.dev/icons?i=python,php,javascript,java,cpp,react,nodejs,express,mongodb,laravel,tailwind,bootstrap,git,github,mysql)
 
 ### Languages
-`Python` `PHP` `JavaScript` `Java` `C++` `SQL`
+`Python` `PHP` `JavaScript` `Java` `C++` `SQL``Dart`
 
 ### Frameworks & Tools
-`Laravel` `React` `Node.js` `Express.js` `MongoDB` `Tailwind CSS` `Bootstrap` `Git` `GitHub`
+`Laravel` `React` `Node.js` `Express.js` `MongoDB` `Tailwind CSS` `Bootstrap` `Git` `GitHub` `Flutter`
 
 ### AI / Data
 `Prompt Engineering` `Model Evaluation` `Reasoning Tasks` `Data Preprocessing` `NLP` `Machine Learning`
@@ -153,12 +154,11 @@ A system designed to manage laptop distribution and tracking efficiently.
 ## 🎯 Goals on GitHub
 
 I use GitHub to share and grow work related to:
-- AI training and model evaluation
 - Machine learning and NLP
 - Full-stack web development
 - Reasoning and algorithmic problem solving
 - Software systems with practical, real-world value
-
+- AI training and model evaluation
 ---
 
 **Thanks for visiting my profile ⭐**  
